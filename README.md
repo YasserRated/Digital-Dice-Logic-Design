@@ -15,7 +15,8 @@ This is a **Digital Dice** project designed for the **Logic Design course**. It 
 
 ## Circuit Diagram
 
-![Circuit Diagram](f2b97bbf-e2db-494c-ac45-30e9f6969235.jpg)
+![Circuit Diagram](![Digital Dice](https://github.com/user-attachments/assets/4c539558-b5f6-4311-a732-420b2d36e626)
+)
 
 > The image above shows the wiring of the digital dice with the Arduino, 7-segment display, button, and buzzer.
 
